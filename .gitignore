@@ -1,0 +1,23 @@
+### Intellij ###
+*.iml
+.idea/
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### Maven ###
+target/
+.target
+.factorypath
+
+### Project ###
+test-output/
+
+### Other ### 
+**/logs/**
+out/production/**
+
+META-INF/
+dependency-reduced-pom.xml
